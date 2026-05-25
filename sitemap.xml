@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- ホームページ / Homepage -->
+  <url>
+    <loc>https://globalgt.net/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://globalgt.net/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://globalgt.net/"/>
+  </url>
+
+  <!-- 企業理念 / Philosophy -->
+  <url>
+    <loc>https://globalgt.net/#mission</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 事業内容 / Services -->
+  <url>
+    <loc>https://globalgt.net/#services</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 料金体系 / Pricing -->
+  <url>
+    <loc>https://globalgt.net/#pricing</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 対象企業 / Who We Serve -->
+  <url>
+    <loc>https://globalgt.net/#target</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- お問い合わせ / Contact -->
+  <url>
+    <loc>https://globalgt.net/#contact</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
